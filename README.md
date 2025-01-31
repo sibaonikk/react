@@ -1,3 +1,3 @@
 # react
 
-react appp.
+Learning React to Hack efficiently..
